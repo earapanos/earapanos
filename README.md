@@ -8,9 +8,8 @@
 * 🗺 Sou analista de geoprocessamento e de dados, atuando com a coleta, análise e estruturação de dados utilizando o Python, SQL e o Looker Studio.
 * 🧠 Atualmente coltado no aprimorento nas áreas de Análise e Ciência de Dados.
 
-<h3 align="center"> 🎯 Tech Skills </h3>
-![Logo do R](http://developer.r-project.org/Logo/Rlogo-5.png)
-
+<h3 align="left"> 🎯 Tech Skills </h3>
+ <img src="[https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png]" width="200" />
 <!--
 **earapanos/earapanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

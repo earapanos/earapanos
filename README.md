@@ -2,7 +2,7 @@
 
 <h3 align="center"> Esse é meu repositório de Análise e Ciência de Dados. </h3>
 
-## 🗨 Sobre a minha pessoa:
+<h3 align="left"> 🗨 Sobre a minha pessoa: </h3>
 * ⚒ Sou Geólogo e Mestre em Geografia pela UFSC. Fui aprovado em ambas as titulações com nota máxima.
 * 👨‍💻 Desde 2022 atuo na área de tecnologia. Possuo experiência como analista de dados e de geoprocessamento.
 * 🗺 Sou analista de geoprocessamento e de dados, atuando com a coleta, análise e estruturação de dados utilizando o Python, SQL e o Looker Studio.

@@ -9,12 +9,6 @@
 * 🧠 Atualmente coltado no aprimorento nas áreas de Análise e Ciência de Dados.
 
 <h3 align="left"> 🎯 Tech Skills </h3>
- <img src="[https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png]" width="200" />
-<!--
-**earapanos/earapanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
   
 <h1 align="center"> Oi! 👋 Sou o Eduardo, prazer! </h1>
 

@@ -21,5 +21,7 @@
  <a href="https://lookerstudio.google.com/" target="_blank" rel="noreferrer"> <img src="https://private-user-images.githubusercontent.com/52800638/293210976-2f6330f3-9862-4bfd-92f6-765f2b717ef6.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDM3NjkyMDAsIm5iZiI6MTcwMzc2ODkwMCwicGF0aCI6Ii81MjgwMDYzOC8yOTMyMTA5NzYtMmY2MzMwZjMtOTg2Mi00YmZkLTkyZjYtNzY1ZjJiNzE3ZWY2LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjI4VDEzMDgyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk3MTc2YWE5ZGIzNjZkNTc4YTQ2NmQwMjA4OGNlNTExZjE1MWE0ZmM1ZDY4MmI0YWFiZTEwYTljNjZkZmVlOGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-NRIYuozbCuwmzufDXjv4kkPD357-ZVlLTIpH16PZvI" alt="lookerstudio" width="40" height="40"/> </a> 
 
 <h2 align="left"> 📚 Repositórios: </h2>
+* <a href="https://github.com/earapanos/Portfolio">Portfolio:</a> projetos de geoprocessamento, análise e ciências de dados desenvolvidos no cotidiano e para o meu portfolio.
 * <a href="https://www.researchgate.net/profile/Eduardo-Rapanos">ResearchGate:</a> perfil com métricas relacionadas a artigos e publicações científicas.
+
 <h2 align="left"> 🗣 Redes: </h2>

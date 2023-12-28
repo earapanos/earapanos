@@ -1,6 +1,6 @@
 <h1 align="center"> Oi! 👋 Sou o Eduardo, prazer! </h1>
 
-<h3 align="center"> Esse é meu repositório de Análise e Ciência de Dados. </h3>
+<h3 align="center"> Esse é meu repositório de Geoprocessamento, Análise e Ciência de Dados. </h3>
 
 ## 🗨 Sobre a minha pessoa: 
 * ⚒ Sou Geólogo e Mestre em Geografia pela UFSC. Fui aprovado em ambas as titulações com nota máxima.

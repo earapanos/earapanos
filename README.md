@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Softwares:</h3>
-<p align="left"> <a href="https://www.qgis.org/" target="_blank" rel="noreferrer"> <img src="https://en.m.wikipedia.org/wiki/File:QGIS_logo,_2017.svg#/media/File%3AQGIS_logo_minimal.svg" alt="QGIS" width="40" height="40"/> </a> 
+<p align="left"> <a href="https://www.qgis.org/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/pt_BR/_images/main_logo.png" alt="QGIS" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 

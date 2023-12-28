@@ -24,7 +24,7 @@
 
 - <a href="https://github.com/earapanos/Portfolio">Portfolio:</a> projetos de geoprocessamento, análise e ciências de dados desenvolvidos no cotidiano e para o meu portfolio.
 - <a href="https://www.researchgate.net/profile/Eduardo-Rapanos">ResearchGate:</a> perfil com métricas relacionadas a artigos e publicações científicas.
-- <a href="https://www.researchgate.net/profile/Eduardo-Rapanos">ResearchGate:</a> página com perfil acadêmico com registro de todas as publicações e cursos realizados.
+- <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2098021H8&tokenCaptchar=03AFcWeA4UW9X9z3KH4hI9tiY9u10_D7ImptyRvaQATHR_84ms2wRo7pLjXs90M6mgD8mn52L1rirrvBuwGmnnrMhRfn5tXa7B8vO9Xu8TTRwmLH3L_VC_pZwsajBfdhfI91W6SbLgrOA6e5oWiYv02MFknyjH3ytEQ26wltr6yfzqeO2T54Ezi57hOj6QkmI5XP89GYUqs-l5uAQzE-XUSbnBdrVHL05bb1yjotBUZ2BfKWYVgKYXh18cb72hme83Trd2d0DDjD0SkNW_MTxXHat97GPdt4M5kqysirOsd3vxnd9OV9rZxvASwanq9O4Xj_PuO6pbovM3l-v3fk8Aq-tiPoIauY05kDUnvWT-9Jali7AyQvSZtRVUlTpvnUMIe7s-hY65_fc9UdDB0SRHGkvAmwjVtkhBWl-qqOkPn4f8xeZE1pPBeR5V96doGb34FZ87dV1D_tiKNhc4fp-lzFppQIsqIey8ZuX_qb4GVGHmNTttVOqMcIuTwaAoKRY2LTvmJ5SG7FenKfHTcEE9MDjwlt_0FIFSUu5JBi3svWNmBtulJoBguuv9gZWrjX_NmD-1bypkDnDmCImjlF8CzdYz0lKHM-qIlnfnadCEeLt9rfCeuPfwk5gTcgSzj2rF-jJP5OAjM2yYTo-HLm6WHAWId-ajYsKMFg">Lattes:</a> página com perfil acadêmico com registro de todas as publicações e cursos realizados.
 
 <h2 align="left"> 🗣 Redes: </h2>
 

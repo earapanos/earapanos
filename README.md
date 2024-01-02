@@ -4,8 +4,8 @@
 
 ## 🗨 Sobre a minha pessoa: 
 * ⚒ Sou Geólogo e Mestre em Geografia pela UFSC. Fui aprovado em ambas as titulações com nota máxima.
-* 👨‍💻 Desde 2022 atuo na área de tecnologia. Possuo experiência como analista de dados e de geoprocessamento.
-* 🗺 Sou analista de geoprocessamento e de dados, atuando com a coleta, análise e estruturação de dados utilizando o Python, SQL e o Looker Studio.
+* 🧭 Possuo +5 anos de experiência em Geoprocessamento e Sensoriamento Remoto. Atuei em diversos projetos de pesquisa.
+* 👨‍💻 Desde 2022 atuo na área de tecnologia. Sou analista de dados e de geoprocessamento, atuando com a coleta, análise e estruturação de dados utilizando o Python, SQL e o Looker Studio.
 * 🧠 Atualmente voltado ao aprimorento nas áreas de Análise e Ciência de Dados.
 
 <h2 align="left"> 🌎 GIS Softwares: </h2>

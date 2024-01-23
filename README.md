@@ -20,13 +20,13 @@
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="dbeaver" width="40" height="40"/> </a>   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
  <a href="https://lookerstudio.google.com/u/0/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="lookerstudio" width="40" height="40"/> </a> 
 
-<h2 align="left"> 📚 Repositórios: </h2>
+<h2 align="left"> 📚 Repositories: </h2>
 
 - <a href="https://github.com/earapanos/Portfolio">Portfolio:</a> geoprocessing, analysis, and data science projects developed in daily work and for my portfolio.
 - <a href="https://www.researchgate.net/profile/Eduardo-Rapanos">ResearchGate:</a> profile with metrics related to articles and scientific publications.
 - <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2098021H8&tokenCaptchar=03AFcWeA4UW9X9z3KH4hI9tiY9u10_D7ImptyRvaQATHR_84ms2wRo7pLjXs90M6mgD8mn52L1rirrvBuwGmnnrMhRfn5tXa7B8vO9Xu8TTRwmLH3L_VC_pZwsajBfdhfI91W6SbLgrOA6e5oWiYv02MFknyjH3ytEQ26wltr6yfzqeO2T54Ezi57hOj6QkmI5XP89GYUqs-l5uAQzE-XUSbnBdrVHL05bb1yjotBUZ2BfKWYVgKYXh18cb72hme83Trd2d0DDjD0SkNW_MTxXHat97GPdt4M5kqysirOsd3vxnd9OV9rZxvASwanq9O4Xj_PuO6pbovM3l-v3fk8Aq-tiPoIauY05kDUnvWT-9Jali7AyQvSZtRVUlTpvnUMIe7s-hY65_fc9UdDB0SRHGkvAmwjVtkhBWl-qqOkPn4f8xeZE1pPBeR5V96doGb34FZ87dV1D_tiKNhc4fp-lzFppQIsqIey8ZuX_qb4GVGHmNTttVOqMcIuTwaAoKRY2LTvmJ5SG7FenKfHTcEE9MDjwlt_0FIFSUu5JBi3svWNmBtulJoBguuv9gZWrjX_NmD-1bypkDnDmCImjlF8CzdYz0lKHM-qIlnfnadCEeLt9rfCeuPfwk5gTcgSzj2rF-jJP5OAjM2yYTo-HLm6WHAWId-ajYsKMFg">Lattes:</a> page with an academic profile containing records of all publications and courses completed.
-- 
-<h2 align="left"> 🗣 Redes: </h2>
+  
+<h2 align="left"> 🗣 Networks: </h2>
 
  <a href="https://www.linkedin.com/in/eduardo-rapanos/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" width="40" height="40"/> </a>
   <a href="https://www.kaggle.com/rapanos" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="kaggle" width="40" height="40"/> </a>

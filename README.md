@@ -1,6 +1,6 @@
 <h1 align="center"> Hello! 👋 I'm Eduardo, nice to meet you! </h1>
 
-<h3 align="center"> This is my repository for Geoprocessing, Analysis, and Data Science. </h3>
+<h3 align="center"> This is my repository of Data Analytics, and Data Science, and Geoprocessing. </h3>
 
 ## 🗨 About myself: 
 * ⚒ I am a Geologist and have a Master's degree in Geography from UFSC. I was approved in both degrees with the highest grade.

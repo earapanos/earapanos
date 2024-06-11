@@ -4,7 +4,7 @@
 
 ## 🗨 About myself: 
 * ⚒ I am a Geologist and have a Master's degree in Geography from UFSC. I was approved in both degrees with the highest grade.
-* 🧭 I have over 5 years of experience in Geoprocessing and Remote Sensing. I have worked on various institutional research projects and as a freelance professional.
+* 🧭 I have over 5 years of experience in Data Analytics and Processing. I have worked on various institutional research projects and as a freelance professional.
 * 👨‍💻 Since 2022, I have been working in the technology field. I am working as Data Analyst, involved in the collection, analysis, transforming and structuring of data using Python, SQL, and Looker Studio.
 * 🧠 Currently focused on enhancing skills in the areas of Data Analysis and Data Science.
 

@@ -1,31 +1,55 @@
-<h1 align="center"> Hello! 👋 I'm Eduardo, nice to meet you! </h1>
+# 👋 Hello! I'm Eduardo, nice to meet you!
 
-<h3 align="center"> This is my repository of Data Analytics, Data Science, and Geoprocessing. </h3>
+## 🚀 About Me  
+I am a **Data Scientist** with a strong focus on **MLOps, machine learning, and process automation**.  
+With over **5 years of experience in data**, I have worked on **data engineering, model deployment, and scalable solutions** in the cloud.  
 
-## 🗨 About myself: 
-* ⚒ I am a Geologist and have a Master's degree in Geography from UFSC. I was approved in both degrees with the highest grade.
-* 🧭 I have over 5 years of experience in Data Analytics and Processing. I have worked on various institutional research projects and as a freelance professional.
-* 👨‍💻 Since 2023, I have been working in the technology field. I am working as Data Analyst, involved in the collection, analysis, transforming and structuring of data using Python, SQL, and Looker Studio.
-* 🧠 Currently focused on enhancing skills in the areas of Data Analysis, Data Science and Data Engineering.
+🔹 **Core Expertise:**  
+- **MLOps & Cloud Computing**: Automating ML workflows, deploying models, and optimizing infrastructure.  
+- **Data Science & Machine Learning**: Developing predictive models, optimizing pipelines, and working with big data.  
+- **Data Engineering**: Building ETL pipelines, managing databases, and ensuring efficient data storage.  
+- **Business Intelligence**: Turning data into actionable insights using visualization tools.  
 
-<h2 align="left"> 🌎 GIS Softwares: </h2>
+Currently, I work on **automating machine learning processes, improving model deployment, and optimizing data pipelines** to drive business value.  
 
-<p align="left"> <a href="https://www.qgis.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg" alt="qgis" width="40" height="40"/> </a>   
-  <a href="https://www.esri.com/en-us/home" target="_blank" rel="noreferrer"> <img src="https://www.img.com.br/content/dam/esrisites/en-us/common/icons/product-logos/ArcGIS-Pro.png" alt="arcgispro" width="40" height="40"/> </a> 
-  <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/googleearth-engine_104576.png" alt="gee" width="40" height="40"/> </a> 
+---
 
-<h2 align="left"> 🎯 Tech Skills: </h2>
+## 🔧 Tech Stack  
 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://rasterio.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/46967650?s=200&v=4" alt="rasterio" width="40" height="40"/> </a> <a href="https://gdal.org/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/df/GDALLogoColor.svg" alt="gdal" width="40" height="40"/> </a> </p>
-  <a href="https://dbeaver.io/" target="_blank" rel="noreferrer"> <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" alt="dbeaver" width="40" height="40"/> </a> <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank" rel="noreferrer"> <img src="https://github.com/earapanos/earapanos/assets/52800638/f0cad89e-1986-43b9-bcd3-c2e688d11f3f" alt="aws" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://lookerstudio.google.com/u/0/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="lookerstudio" width="40" height="40"/> </a> 
+### 🚀 MLOps & Cloud  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 
-<h2 align="left"> 📚 Repositories: </h2>
+### 🧠 Machine Learning & Data Science  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 
-- <a href="https://github.com/earapanos/Portfolio">Portfolio:</a> analytics, data science and geoprocessing projects developed in daily work and for my portfolio.
-- <a href="https://www.researchgate.net/profile/Eduardo-Rapanos">ResearchGate:</a> profile with metrics related to articles and scientific publications.
-- <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2098021H8&tokenCaptchar=03AFcWeA4UW9X9z3KH4hI9tiY9u10_D7ImptyRvaQATHR_84ms2wRo7pLjXs90M6mgD8mn52L1rirrvBuwGmnnrMhRfn5tXa7B8vO9Xu8TTRwmLH3L_VC_pZwsajBfdhfI91W6SbLgrOA6e5oWiYv02MFknyjH3ytEQ26wltr6yfzqeO2T54Ezi57hOj6QkmI5XP89GYUqs-l5uAQzE-XUSbnBdrVHL05bb1yjotBUZ2BfKWYVgKYXh18cb72hme83Trd2d0DDjD0SkNW_MTxXHat97GPdt4M5kqysirOsd3vxnd9OV9rZxvASwanq9O4Xj_PuO6pbovM3l-v3fk8Aq-tiPoIauY05kDUnvWT-9Jali7AyQvSZtRVUlTpvnUMIe7s-hY65_fc9UdDB0SRHGkvAmwjVtkhBWl-qqOkPn4f8xeZE1pPBeR5V96doGb34FZ87dV1D_tiKNhc4fp-lzFppQIsqIey8ZuX_qb4GVGHmNTttVOqMcIuTwaAoKRY2LTvmJ5SG7FenKfHTcEE9MDjwlt_0FIFSUu5JBi3svWNmBtulJoBguuv9gZWrjX_NmD-1bypkDnDmCImjlF8CzdYz0lKHM-qIlnfnadCEeLt9rfCeuPfwk5gTcgSzj2rF-jJP5OAjM2yYTo-HLm6WHAWId-ajYsKMFg">Lattes:</a> page with an academic profile containing records of all publications and courses completed.
-  
-<h2 align="left"> 🗣 Networks: </h2>
+### 🗄️ Data Engineering & BI  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)  
 
- <a href="https://www.linkedin.com/in/eduardo-rapanos/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" width="40" height="40"/> </a>
-  <a href="https://www.kaggle.com/rapanos" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="kaggle" width="40" height="40"/> </a>
+---
+
+## 📂 Repositories  
+
+- [📁 Portfolio](https://github.com/earapanos/Portfolio) – A collection of **MLOps, data science, and automation projects**.  
+- [📊 ResearchGate](https://www.researchgate.net/profile/Eduardo-Rapanos) – My research profile with publications and academic contributions.  
+- [📖 Lattes](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K2098021H8&tokenCaptchar=03AFcWeA4UW9X9z3KH4hI9tiY9u10_D7ImptyRvaQATHR_84ms2wRo7pLjXs90M6mgD8mn52L1rirrvBuwGmnnrMhRfn5tXa7B8vO9Xu8TTRwmLH3L_VC_pZwsajBfdhfI91W6SbLgrOA6e5oWiYv02MFknyjH3ytEQ26wltr6yfzqeO2T54Ezi57hOj6QkmI5XP89GYUqs-l5uAQzE-XUSbnBdrVHL05bb1yjotBUZ2BfKWYVgKYXh18cb72hme83Trd2d0DDjD0SkNW_MTxXHat97GPdt4M5kqysirOsd3vxnd9OV9rZxvASwanq9O4Xj_PuO6pbovM3l-v3fk8Aq-tiPoIauY05kDUnvWT-9Jali7AyQvSZtRVUlTpvnUMIe7s-hY65_fc9UdDB0SRHGkvAmwjVtkhBWl-qqOkPn4f8xeZE1pPBeR5V96doGb34FZ87dV1D_tiKNhc4fp-lzFppQIsqIey8ZuX_qb4GVGHmNTttVOqMcIuTwaAoKRY2LTvmJ5SG7FenKfHTcEE9MDjwlt_0FIFSUu5JBi3svWNmBtulJoBguuv9gZWrjX_NmD-1bypkDnDmCImjlF8CzdYz0lKHM-qIlnfnadCEeLt9rfCeuPfwk5gTcgSzj2rF-jJP5OAjM2yYTo-HLm6WHAWId-ajYsKMFg) – My academic profile with published research and coursework.  
+
+---
+
+## 🔗 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-rapanos/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rapanos)  
+
+---
+
+Thanks for stopping by! 🚀 Always looking for **new challenges** in MLOps, automation, and data science.  
